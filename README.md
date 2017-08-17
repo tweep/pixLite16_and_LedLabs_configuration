@@ -22,5 +22,10 @@
 - Start the Advatek Assistant software 
 
 ![test](pics/advatek_conf_1.jpg "Configuraton #1")
+![test](pics/advatek_conf_2.jpg "Configuraton #2")
+![test](pics/advatek_conf_2A.jpg "Configuraton #2A")
+![test](pics/advatek_conf_3.jpg "Configuraton #3")
+![test](pics/advatek_conf_4.jpg "Configuraton #4")
+![test](pics/advatek_conf_5.jpg "Configuraton #5")
 
 
