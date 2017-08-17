@@ -37,15 +37,14 @@ Here are the steps I perform on the iPad:
 - I connected the iPad the the MiniRouter WIFI network
 - I start LEDlabs on the iPad
 - I purchase the LED Mapping package from LEDlabs to see the output 
-- I enter the configuration menu **LED Setup**
+- I enter the configuration menu *LED Setup*
 - As it's artnet, there's no controller self-discovery. I will configure this manually 
-  -- Make sure "Artnet Keep Controller list Synced" is deactivated 
-  -- Press New 
-  -- Select new artnet controller
-  -- Enter the IP address of the new controller ( This is shown in the Advatek Assistant window - by the way i am using a static IP for the Pixlite16 to not confuse things further ... )  
-  -- Enter the nunber of LEDs per strand - make sure this is CORRECT !!! 
-  -- enter the number of outputs ( = strips ) 
-  -- 
+  - Make sure "Artnet Keep Controller list Synced" is deactivated 
+  - Press New 
+  - Select new artnet controller
+  - Enter the IP address of the new controller ( This is shown in the Advatek Assistant window - by the way i am using a static IP for the Pixlite16 to not confuse things further ... )  
+  - Enter the nunber of LEDs per strand - make sure this is CORRECT !!! 
+  - enter the number of outputs ( = strips ) 
 
 ![test](pics/ledlabs_1.jpg "Ledlabs Configuraton #1") 
 
