@@ -37,7 +37,7 @@ Here are the steps I perform on the iPad:
 - I connected the iPad the the MiniRouter WIFI network
 - I start LEDlabs on the iPad
 - I purchase the LED Mapping package from LEDlabs to see the output 
-- I enter the configuration menu **LED Setup*
+- I enter the configuration menu **LED Setup**
 - As it's artnet, there's no controller self-discovery. I will configure this manually 
   -- Make sure "Artnet Keep Controller list Synced" is deactivated 
   -- Press New 
