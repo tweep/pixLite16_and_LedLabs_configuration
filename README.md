@@ -62,6 +62,11 @@ Configure the Mapping in LEDlabs
 
 No matter what LEDLabs scene I use, I see that the same pixels are blacked out. 
 
-![test](pics/strips_issue.jpg "Ledlabs Issue #1")
+![test](pics/strips_issue.jpg "Ledlabs Issue #1") 
+
+### Syncronized pic between LEDlabs and Strips 
+The picture below demostrates what LEDlabs wants to show (LED Preview on the iPad), and what's currently displyaed with the Strips. I see blacked out LEDs on the strips, *no matter what LED scene I use*.
+
+
 ![test](pics/strips_issue_2.jpg "Ledlabs Issue #2")
 
