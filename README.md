@@ -21,6 +21,6 @@
 - Connect Macbook to the Wifi Router network "MiniRouter" 
 - Start the Advatek Assistant software 
 
-![test](./pics/advatek_conf_1.jpg" Configuraton #1")
+![test](./pics/advatek_conf_1.jpg "Configuraton #1")
 
 
