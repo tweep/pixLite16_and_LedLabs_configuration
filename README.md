@@ -22,8 +22,14 @@
 - Start the Advatek Assistant software 
 
 ![test](pics/advatek_conf_1.jpg "Configuraton #1")
-![test](pics/advatek_conf_2.jpg "Configuraton #2")
-![test](pics/advatek_conf_2A.jpg "Configuraton #2A")
+![test](pics/advatek_conf_2.jpg "Configuraton #2") 
+
+### Below the working config 
+This config fixes the DEAD PIXELS problem I mentioned below.
+![test](pics/advatek_working_config.jpg "Working configuraton ") 
+
+
+
 ![test](pics/advatek_conf_3.jpg "Configuraton #3")
 ![test](pics/advatek_conf_4.jpg "Configuraton #4")
 ![test](pics/advatek_conf_5.jpg "Configuraton #5")
@@ -70,3 +76,9 @@ The picture below demostrates what LEDlabs wants to show (LED Preview on the iPa
 
 ![test](pics/strips_issue_2.jpg "Ledlabs Issue #2")
 
+### Incorrect config
+The issue with LEDlabs got resolved (thanks Advatek support ! ). The problem is that LEDlabs assuems that every single LED strand is a single,sepaarte universe. So every strand needs to start at a new universe with pixel start #1 
+
+ If you configure Advatek assistant like below, you see the dead pixles. *dont do that* 
+
+![test](pics/advatek_conf_2A.jpg "Advatek incorrect config ")
