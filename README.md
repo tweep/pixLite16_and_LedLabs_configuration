@@ -81,4 +81,4 @@ The issue with LEDlabs got resolved (thanks Advatek support ! ). The problem is 
 
  If you configure Advatek assistant like below, you see the dead pixles. *dont do that* 
 
-![test](pics/advatek_conf_2A.jpg "Advatek incorrect config ")
+![test](pics/advatek_conf_2A_incorrect.jpg "Advatek incorrect config ")
